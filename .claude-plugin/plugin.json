@@ -1,0 +1,28 @@
+{
+  "name": "holdfast",
+  "displayName": "Holdfast",
+  "version": "1.0.0",
+  "description": "Check in, design challenges, review your runs and cheer on your crew in Holdfast, the daily-challenge app.",
+  "author": {
+    "name": "Holdfast",
+    "url": "https://holdfast-site.chiragmgg.workers.dev"
+  },
+  "homepage": "https://holdfast-site.chiragmgg.workers.dev/ai",
+  "repository": "https://github.com/Schreezer/holdfast-plugin",
+  "license": "MIT",
+  "keywords": [
+    "habits",
+    "challenges",
+    "fitness",
+    "accountability",
+    "mcp"
+  ],
+  "mcpServers": {
+    "holdfast": {
+      "type": "http",
+      "url": "https://holdfast-mcp.chiragmgg.workers.dev/mcp"
+    }
+  },
+  "privacyPolicyUrl": "https://holdfast-site.chiragmgg.workers.dev/privacy",
+  "icon": ".claude-plugin/icon.png"
+}
