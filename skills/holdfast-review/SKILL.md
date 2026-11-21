@@ -1,9 +1,9 @@
 ---
 name: holdfast-review
-description: Review how a Holdfast challenge is going, at the end of a week, after a missed day, or once a run ends, and suggest one change. Use when the person asks how they're doing, why they keep failing, whether to restart, or wants a recap of their challenge.
+description: Review how a Daybond (formerly Holdfast) challenge is going, at the end of a week, after a missed day, or once a run ends, and suggest one change. Use when the person asks how they're doing, why they keep failing, whether to restart, or wants a recap of their challenge.
 ---
 
-# Reviewing a Holdfast run
+# Reviewing a Daybond run
 
 ## Gather
 

@@ -1,11 +1,11 @@
 ---
 name: holdfast-checkin
-description: Log what the person did today in Holdfast, their daily-challenge app. Use when they report doing a challenge task ("did my run", "read 20 pages", "cold shower done"), ask what's left today, or ask how their day or challenge is going.
+description: Log what the person did today in Daybond (formerly Holdfast), their daily-challenge app. Use when they report doing a challenge task ("did my run", "read 20 pages", "cold shower done"), ask what's left today, or ask how their day or challenge is going.
 ---
 
-# Holdfast check-in
+# Daybond check-in
 
-Holdfast challenges are hard on purpose: a missed day costs a life or resets the run. A false tick ruins a run, so every value you log has to be something the person told you they did.
+Daybond challenges are hard on purpose: a missed day costs a life or resets the run. A false tick ruins a run, so every value you log has to be something the person told you they did.
 
 ## Steps
 

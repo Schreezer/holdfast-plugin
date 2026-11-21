@@ -1,9 +1,9 @@
 ---
 name: holdfast-crew
-description: Check on a Holdfast crew, send respect on crew members' completed days, or nudge someone who hasn't started today. Use when the person asks how their crew or friends are doing, wants to cheer them on, or wants to nudge someone.
+description: Check on a Daybond (formerly Holdfast) crew, send respect on crew members' completed days, or nudge someone who hasn't started today. Use when the person asks how their crew or friends are doing, wants to cheer them on, or wants to nudge someone.
 ---
 
-# Holdfast crew
+# Daybond crew
 
 A crew is the group doing a challenge together. You never see names: members and feed events come as short handles (`m1`, `e4`) that work only in this conversation for about a day. When you talk about them, describe them by what they did ("the two people who haven't started", "whoever finished first"), not by handle, unless the person uses handles too.
 
