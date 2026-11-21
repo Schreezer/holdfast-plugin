@@ -1,14 +1,14 @@
 {
   "name": "holdfast",
-  "description": "The Holdfast plugin for Claude: daily challenges, check-ins and crew.",
+  "description": "The Daybond plugin for Claude: daily challenges, check-ins and crew.",
   "owner": {
-    "name": "Holdfast"
+    "name": "Daybond"
   },
   "plugins": [
     {
       "name": "holdfast",
       "source": "./",
-      "description": "Holdfast in Claude: daily check-ins, challenge design, reviews and crew, with the Holdfast MCP server."
+      "description": "Daybond in Claude: daily check-ins, challenge design, reviews and crew, with the Daybond MCP server."
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "name": "holdfast",
-  "displayName": "Holdfast",
+  "displayName": "Daybond",
   "version": "1.0.0",
-  "description": "Check in, design challenges, review your runs and cheer on your crew in Holdfast, the daily-challenge app.",
+  "description": "Check in, design challenges, review your runs and cheer on your crew in Daybond, the daily-challenge app.",
   "author": {
-    "name": "Holdfast",
+    "name": "Daybond",
     "url": "https://holdfast-site.chiragmgg.workers.dev"
   },
   "homepage": "https://holdfast-site.chiragmgg.workers.dev/ai",

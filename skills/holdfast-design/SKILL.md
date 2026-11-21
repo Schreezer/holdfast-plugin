@@ -1,11 +1,11 @@
 ---
 name: holdfast-design
-description: Design a new Holdfast challenge, or change one that hasn't started, and hand it to the app as a draft. Use when the person wants to start a challenge, build a habit with friends, make something like a 30- or 75-day challenge, or adjust the tasks, length or rules of an upcoming one.
+description: Design a new Daybond (formerly Holdfast) challenge, or change one that hasn't started, and hand it to the app as a draft. Use when the person wants to start a challenge, build a habit with friends, make something like a 30- or 75-day challenge, or adjust the tasks, length or rules of an upcoming one.
 ---
 
-# Designing a Holdfast challenge
+# Designing a Daybond challenge
 
-A Holdfast challenge is a fixed list of daily tasks for a set number of days, done alone or with a crew. Miss a day and you spend a life; run out of lives and the run starts over. It is meant to be hard, so the design has to be hard in the right way: clear enough to know when a day is done, demanding enough to matter, and safe to do every day.
+A Daybond challenge is a fixed list of daily tasks for a set number of days, done alone or with a crew. Miss a day and you spend a life; run out of lives and the run starts over. It is meant to be hard, so the design has to be hard in the right way: clear enough to know when a day is done, demanding enough to matter, and safe to do every day.
 
 ## Interview first
 
